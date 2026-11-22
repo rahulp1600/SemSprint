@@ -1,0 +1,38 @@
+export const INITIAL_SUBJECTS = [
+  {
+    id: 'sub-1',
+    name: 'Data Structures & Algorithms',
+    totalTopics: 20,
+    completedTopics: 14,
+    color: 'violet',
+    revisionDue: 3,
+    createdAt: '2026-11-18',
+  },
+  {
+    id: 'sub-2',
+    name: 'Database Management Systems',
+    totalTopics: 15,
+    completedTopics: 9,
+    color: 'blue',
+    revisionDue: 2,
+    createdAt: '2026-11-19',
+  },
+  {
+    id: 'sub-3',
+    name: 'Computer Networks',
+    totalTopics: 12,
+    completedTopics: 4,
+    color: 'emerald',
+    revisionDue: 1,
+    createdAt: '2026-11-20',
+  },
+  {
+    id: 'sub-4',
+    name: 'Operating Systems',
+    totalTopics: 16,
+    completedTopics: 11,
+    color: 'amber',
+    revisionDue: 2,
+    createdAt: '2026-11-21',
+  },
+];
